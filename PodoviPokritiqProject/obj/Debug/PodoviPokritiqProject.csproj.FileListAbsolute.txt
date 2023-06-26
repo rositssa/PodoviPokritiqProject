@@ -1,0 +1,7 @@
+C:\Users\rosit\source\repos\PodoviPokritiqProject\PodoviPokritiqProject\bin\Debug\PodoviPokritiqProject.exe.config
+C:\Users\rosit\source\repos\PodoviPokritiqProject\PodoviPokritiqProject\bin\Debug\PodoviPokritiqProject.exe
+C:\Users\rosit\source\repos\PodoviPokritiqProject\PodoviPokritiqProject\bin\Debug\PodoviPokritiqProject.pdb
+C:\Users\rosit\source\repos\PodoviPokritiqProject\PodoviPokritiqProject\obj\Debug\PodoviPokritiqProject.csproj.AssemblyReference.cache
+C:\Users\rosit\source\repos\PodoviPokritiqProject\PodoviPokritiqProject\obj\Debug\PodoviPokritiqProject.csproj.CoreCompileInputs.cache
+C:\Users\rosit\source\repos\PodoviPokritiqProject\PodoviPokritiqProject\obj\Debug\PodoviPokritiqProject.exe
+C:\Users\rosit\source\repos\PodoviPokritiqProject\PodoviPokritiqProject\obj\Debug\PodoviPokritiqProject.pdb
